@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #f5f6f7;
+    font-family: 'Spartan', sans-serif;
+}
+
+::-webkit-scrollbar {
+    background-color: #b0b8c7;
+    width: 0.4rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #366fc6;
+}
